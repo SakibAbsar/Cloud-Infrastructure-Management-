@@ -1,0 +1,5 @@
+
+azure:
+  subscription_id: "your-subscription-id"
+  resource_group: "cloud-demo-rg"
+  location: "West US"
